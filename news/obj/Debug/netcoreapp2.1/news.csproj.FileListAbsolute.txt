@@ -1,0 +1,11 @@
+C:\Users\oded\source\repos\news\news\bin\Debug\netcoreapp2.1\news.deps.json
+C:\Users\oded\source\repos\news\news\bin\Debug\netcoreapp2.1\news.runtimeconfig.json
+C:\Users\oded\source\repos\news\news\bin\Debug\netcoreapp2.1\news.runtimeconfig.dev.json
+C:\Users\oded\source\repos\news\news\bin\Debug\netcoreapp2.1\news.dll
+C:\Users\oded\source\repos\news\news\bin\Debug\netcoreapp2.1\news.pdb
+C:\Users\oded\source\repos\news\news\obj\Debug\netcoreapp2.1\news.csprojAssemblyReference.cache
+C:\Users\oded\source\repos\news\news\obj\Debug\netcoreapp2.1\news.csproj.CoreCompileInputs.cache
+C:\Users\oded\source\repos\news\news\obj\Debug\netcoreapp2.1\news.AssemblyInfoInputs.cache
+C:\Users\oded\source\repos\news\news\obj\Debug\netcoreapp2.1\news.AssemblyInfo.cs
+C:\Users\oded\source\repos\news\news\obj\Debug\netcoreapp2.1\news.dll
+C:\Users\oded\source\repos\news\news\obj\Debug\netcoreapp2.1\news.pdb
