@@ -1,0 +1,17 @@
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\obj\Debug\netcoreapp2.2\NewsFetchingTestProject.csprojAssemblyReference.cache
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\obj\Debug\netcoreapp2.2\NewsFetchingTestProject.csproj.CoreCompileInputs.cache
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\obj\Debug\netcoreapp2.2\NewsFetchingTestProject.AssemblyInfoInputs.cache
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\obj\Debug\netcoreapp2.2\NewsFetchingTestProject.AssemblyInfo.cs
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NewsFetchingTestProject.deps.json
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NewsFetchingTestProject.runtimeconfig.json
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NewsFetchingTestProject.runtimeconfig.dev.json
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NewsFetchingTestProject.dll
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NewsFetchingTestProject.pdb
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NewsFetcherApi.dll
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\bin\Debug\netcoreapp2.2\NewsFetcherApi.pdb
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\obj\Debug\netcoreapp2.2\NewsFetchingTestProject.csproj.CopyComplete
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\obj\Debug\netcoreapp2.2\NewsFetchingTestProject.dll
+C:\Users\oded\source\repos\newsFetching\NewsFetchingTestProject\obj\Debug\netcoreapp2.2\NewsFetchingTestProject.pdb

@@ -1,0 +1,14 @@
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\bin\Debug\netcoreapp2.2\NewsFetcherApi.deps.json
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\bin\Debug\netcoreapp2.2\NewsFetcherApi.runtimeconfig.json
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\bin\Debug\netcoreapp2.2\NewsFetcherApi.runtimeconfig.dev.json
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\bin\Debug\netcoreapp2.2\NewsFetcherApi.dll
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\bin\Debug\netcoreapp2.2\NewsFetcherApi.pdb
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.csproj.CoreCompileInputs.cache
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.RazorAssemblyInfo.cache
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.RazorAssemblyInfo.cs
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.AssemblyInfoInputs.cache
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.AssemblyInfo.cs
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.RazorTargetAssemblyInfo.cache
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.dll
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.pdb
+C:\Users\oded\source\repos\newsFetching\NewsFetcherApi\obj\Debug\netcoreapp2.2\NewsFetcherApi.csprojAssemblyReference.cache
