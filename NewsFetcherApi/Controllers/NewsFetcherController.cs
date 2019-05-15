@@ -15,6 +15,10 @@ namespace NewsFetcherApi.Controllers
     public class NewsFetcherController : Controller
     {
         // GET: api/<controller> 
+        /// <summary>
+        /// Return all news about trump
+        /// </summary>
+        /// <returns>The get.</returns>
         [HttpGet("everything")]
         public IEnumerable<Article> Get()
         {
@@ -35,6 +39,12 @@ namespace NewsFetcherApi.Controllers
 
 
         }
+
+
+
+
+
+
         private IEnumerable<Article> filterNewsBySourceID(string newsSoureId, IEnumerable<Article> articles)
         {
             List<Article> filterdArticles = new List<Article>();
@@ -54,6 +64,11 @@ namespace NewsFetcherApi.Controllers
         
 
         // GET api/<controller>/5
+        /// <summary>
+        /// just a demo here
+        /// </summary>
+        /// <returns>The get.</returns>
+        /// <param name="id">Identifier.</param>
         [HttpGet("{id}")]
         public string Get(int id)
         {
